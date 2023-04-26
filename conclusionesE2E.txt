@@ -1,0 +1,4 @@
+La funcionalidad del carrito de compras está bien implementada y no hay errores graves en el proceso de compra.
+La integración con el pago funciona correctamente.
+El rendimiento del sitio web es adecuado para el manejo de diferentes cargas de trabajo
+La experiencia del usuario es satisfactoria, tanto en términos de facilidad de uso como de navegación.
